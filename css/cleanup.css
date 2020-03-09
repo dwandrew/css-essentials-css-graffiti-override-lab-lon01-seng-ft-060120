@@ -18,4 +18,7 @@
   display: none;
   }
   
-#wall .parent + .parent +.parent +
+#wall .parent + div:last-child #tag-6
+{
+  display: none;
+}
